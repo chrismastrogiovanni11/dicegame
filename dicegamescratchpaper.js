@@ -247,6 +247,7 @@ let r = []
 
 		if(turnThing > 4)
 			console.log(PlayerOne "turn"){
+				return
 
 			}else
 			console.log(PlayerTwo "turn")
