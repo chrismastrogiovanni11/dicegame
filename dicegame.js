@@ -20,7 +20,7 @@ NamePlayers()
 
 function DiceRoll(){
 
-	let DiceRoll = Math.ceil(Math.random() * 6)
+	let DiceRoll = Math.ceil(Math.random() * )
 	let roll = DiceRoll;
 	console.log(roll)
 
@@ -39,7 +39,7 @@ function playBasketBall(){
 
 	}else {
 		console.log("Player Two's turn")
-		}
+		}return;
 }
 // // let Foul = DiceRoll(12);
 
